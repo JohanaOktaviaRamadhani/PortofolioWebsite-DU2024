@@ -32,9 +32,10 @@ const Contact = () => {
                     </div>
 
                     <div className="w-full max-w-lg bg-white p-6 rounded-lg shadow-lg border-l-4 border-rose-900" data-aos="fade-left">
-                        <h3 className="text-xl font-semibold text-gray-800">Follow Us</h3>
+                        <h3 className="text-xl font-semibold text-gray-800">Follow Me</h3>
                         <p className="text-gray-600">
-                            <a href="https://www.instagram.com/jhnaoktv_?igsh=ZmprcGJ2OHJmZTA4" className="text-rose-700 hover:underline" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+                            <a href="https://www.instagram.com/jhnaoktv_?igsh=ZmprcGJ2OHJmZTA4" className="text-rose-700 hover:underline" target="_blank" rel="noopener noreferrer">Instagram</a>
+                            |
                             <a href="https://www.linkedin.com/in/johanaoktavia?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-rose-700 hover:underline" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                         </p>
                     </div>
