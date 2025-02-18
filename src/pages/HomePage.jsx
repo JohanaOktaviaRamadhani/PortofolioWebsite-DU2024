@@ -1,6 +1,7 @@
 import React from "react"; 
 import Jumbotron from "../components/Jumbotron";
 import MyProjects from '../components/myproject';
+import Contacts from "../components/Contact";
 import Layout from "../layouts/Layout";
 
 const AboutMe = () => (
@@ -28,6 +29,7 @@ const HomePage = () => (
     <Jumbotron />
     <AboutMe />
     <Projects />
+    <Contacts />
   </Layout>
 );
 
